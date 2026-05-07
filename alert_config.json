@@ -1,0 +1,13 @@
+{
+  "emails": [
+    "vykturdonalty@gmail.com"
+  ],
+  "telegram_bot_token": "8730794955:AAErUa5X3SvSMoYooZQfQIA1p2yG2KlEhPM",
+  "telegram_chat_ids": [
+    "800576751",
+    "@Xyzzxyzhh"
+  ],
+  "gmail_sender": "donatusvictor76@gmail.com",
+  "gmail_app_password": "pyfm ozxp idxk brze",
+  "churn_threshold": 0.95
+}
